@@ -1,5 +1,5 @@
 # Ex05 Image Carousel
-## Date:21-11-2025
+## Date:20-10-2025
 ## Name:MADHUVATHANI V
 ## Reg.no: 212223040107
 
